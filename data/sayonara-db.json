@@ -1,0 +1,3549 @@
+{
+  "users": [
+    {
+      "id": "usr_admin_001",
+      "name": "CSE Head Coordinator",
+      "collegeId": "CSE-ADMIN",
+      "year": "4th Year",
+      "department": "CSE",
+      "email": "admin@sayonara.cse",
+      "phone": "+91 98765 43210",
+      "passwordHash": "$2b$10$C4Mna4yPUN06b2iycWPBGOmb3wbPoaLYlQQBnvXYwXsBBpwieTQ2.",
+      "role": "admin",
+      "qrToken": "SAY-ADM-998811",
+      "createdAt": "2026-10-03T07:13:24.906Z"
+    },
+    {
+      "id": "usr_std_1791034017639_44du",
+      "name": "MOHAN",
+      "collegeId": "22CS100",
+      "year": "3rd Year",
+      "department": "CSE",
+      "email": "rharies@gmail.com",
+      "phone": "1234567890",
+      "passwordHash": "$2b$10$j0rKH8gu.yH8aeZ2uTy00eSDOYjZxsSB6fpXyaDWIP1uzTHp0gRjK",
+      "role": "student",
+      "qrToken": "SAY-22CS100-FQVN2",
+      "createdAt": "2026-10-03T13:26:57.913Z"
+    },
+    {
+      "id": "usr_std_1791054691525_oels",
+      "name": "hadj",
+      "collegeId": "O220933",
+      "year": "3rd Year",
+      "department": "CSE",
+      "email": "rhaxsjan@gmail.com",
+      "phone": "1234567891",
+      "passwordHash": "$2b$10$0RVSrGqZCHvIjogJR24KjOTCYwL9xi7dIN4hgpuUUVWLJ/EeroBuK",
+      "role": "student",
+      "qrToken": "SAY-O220933-I6UF5",
+      "createdAt": "2026-10-03T19:11:31.632Z"
+    },
+    {
+      "id": "usr_std_1791056204841_bfnk",
+      "name": "TUMMI JYOTHSNA",
+      "collegeId": "O221137",
+      "year": "3rd Year",
+      "department": "CSE",
+      "email": "rhari@gmail.com",
+      "phone": "7842439105",
+      "passwordHash": "$2b$10$Ug5eSPo5c1o0gzjRXi8MU.z5LlKt4vs7x2UZYMB5KFL9kV5YwXvvW",
+      "role": "student",
+      "qrToken": "SAY-O221137-SHKO4",
+      "createdAt": "2026-10-03T19:36:44.947Z"
+    },
+    {
+      "id": "usr_std_1791118345872_y13u",
+      "name": "SIDDABOINA BRAMHAJI",
+      "collegeId": "O221160",
+      "year": "3rd Year",
+      "department": "CSE",
+      "email": "rharui@gmail.com",
+      "phone": "7845124678",
+      "passwordHash": "$2b$10$uoitVtSB053wJwZFabTNt.gYQetxoJK0FftojYeh9CQYzl140EXgW",
+      "role": "student",
+      "qrToken": "SAY-O221160-BH52X",
+      "createdAt": "2026-10-04T12:52:26.102Z"
+    },
+    {
+      "id": "usr_std_1791137609189_c5sh",
+      "name": "THURUPATI DEEPA",
+      "collegeId": "S220697",
+      "year": "3rd Year",
+      "department": "CSE",
+      "email": "deepa.personal@gmail.com",
+      "phone": "7842439105",
+      "passwordHash": "$2b$10$lrxblR2a2sBgMINKtf4yLOeailMKLfdwKmbS.LICe3TDBAEEM5YNe",
+      "role": "student",
+      "qrToken": "SAY-S220697-MILAB",
+      "createdAt": "2026-10-04T18:13:29.427Z"
+    },
+    {
+      "id": "usr_std_002",
+      "name": "Ananya Iyer",
+      "collegeId": "22CS015",
+      "year": "3rd Year",
+      "department": "CSE",
+      "email": "ananya.22cs015@college.edu",
+      "phone": "+91 92345 67891",
+      "passwordHash": "$2b$10$C4Mna4yPUN06b2iycWPBGOh9J9kp0tEOuut2fpq4PZ8ItZaGmNhwa",
+      "role": "student",
+      "qrToken": "SAY-22CS015-3M41P",
+      "createdAt": "2026-10-04T13:26:38.507Z"
+    },
+    {
+      "id": "usr_std_1791140619951_esbp",
+      "name": "VARIKUTI LOKESWAREDDY",
+      "collegeId": "O220702",
+      "year": "3rd Year",
+      "department": "CSE",
+      "email": "lokesh.v@gmail.com",
+      "phone": "9123456789",
+      "passwordHash": "$2b$10$35j4qbUv2y.IprVyZDsi.ufljGhVQN2ieYV2mlwYXHfAp45NovwzS",
+      "role": "student",
+      "qrToken": "SAY-O220702-ZI3M9",
+      "createdAt": "2026-10-04T19:03:40.069Z"
+    },
+    {
+      "id": "usr_std_1791276021848_s8gj",
+      "name": "AKIRI MADHU",
+      "collegeId": "O221126",
+      "year": "3rd Year",
+      "department": "CSE",
+      "email": "rhariq@gmail.com",
+      "phone": "1234567889",
+      "passwordHash": "$2b$10$UxahJ.qmxBb13Ag2.C/b9.JGguUu.76KF3LTFB0iCmh3fgRTSANlm",
+      "role": "student",
+      "qrToken": "SAY-O221126-Z7PYP",
+      "createdAt": "2026-10-06T08:40:22.118Z"
+    }
+  ],
+  "events": [
+    {
+      "id": "evt_001",
+      "name": "Terminal Velocity: Farewell Code-Off",
+      "tagline": "The Ultimate 3-Hour Algorithm & Speed Battle",
+      "description": "Juniors challenge seniors in a thrilling competitive programming sprint. Dynamic problem sets spanning graphs, DP, and reverse engineering with live leaderboard projection.",
+      "category": "Technical",
+      "rules": [
+        "Individual participation or duo teams.",
+        "Allowed languages: C++, Python, Java, Go, Rust.",
+        "Live test-case evaluation on local platform.",
+        "Top 3 scorers receive bespoke trophy and cash awards."
+      ],
+      "eligibility": "3rd & 4th Year CSE Students",
+      "maxParticipants": 60,
+      "currentRegistrations": 24,
+      "date": "20 MARCH 2027",
+      "time": "10:30 AM - 01:30 PM",
+      "venue": "CSE BLOCK",
+      "registrationStatus": "OPEN",
+      "iconName": "Code2",
+      "createdAt": "2026-10-03T07:13:24.907Z"
+    },
+    {
+      "id": "evt_002",
+      "name": "Retro-Byte: CSE Nostalgia & Roast Stage",
+      "tagline": "Memories, Campus Confessions & Uncensored Humour",
+      "description": "From surviving viva disasters to late night campus canteen sessions, share heartfelt tributes, roast your favorite batchmates, and celebrate our journey.",
+      "category": "Ceremony",
+      "rules": [
+        "Open mic slots limited to 5 minutes per speaker.",
+        "Respectful college humor; no personal defamation.",
+        "Faculty dedications welcome."
+      ],
+      "eligibility": "3rd & 4th Year CSE Students",
+      "maxParticipants": 150,
+      "currentRegistrations": 42,
+      "date": "20 MARCH 2027",
+      "time": "02:30 PM - 04:30 PM",
+      "venue": "CSE BLOCK",
+      "registrationStatus": "OPEN",
+      "iconName": "Sparkles",
+      "createdAt": "2026-10-03T07:13:24.907Z"
+    },
+    {
+      "id": "evt_003",
+      "name": "LAN Apocalypse: Valorant & BGMI Cup",
+      "tagline": "High-Octane Esports Showdown",
+      "description": "The annual seniors vs. juniors LAN clash. 5v5 custom lobbies with live shoutcasting on the big auditorium screen.",
+      "category": "Gaming",
+      "rules": [
+        "Valorant: 5 Players + 1 Sub per squad.",
+        "BGMI: 4 Players squad in custom room.",
+        "Standard competitive tournament rulebook applies."
+      ],
+      "eligibility": "CSE 3rd & 4th Year Only",
+      "maxParticipants": 80,
+      "currentRegistrations": 40,
+      "date": "20 MARCH 2027",
+      "time": "11:00 AM - 04:00 PM",
+      "venue": "CSE BLOCK",
+      "registrationStatus": "FILLING_FAST",
+      "iconName": "Gamepad2",
+      "createdAt": "2026-10-03T07:13:24.907Z"
+    },
+    {
+      "id": "evt_004",
+      "name": "Synapse Beats: Cultural Band & Dance",
+      "tagline": "Electrifying Performances & Live Acoustics",
+      "description": "Performances curated by CSE talent: rock acoustics, hip-hop crews, fusion dance, and solo vocals lighting up the evening.",
+      "category": "Cultural",
+      "rules": [
+        "Group performances: max 8 participants.",
+        "Music tracks must be submitted 24h in advance.",
+        "Stage time: 6-10 minutes."
+      ],
+      "eligibility": "CSE Students",
+      "maxParticipants": 100,
+      "currentRegistrations": 18,
+      "date": "20 MARCH 2027",
+      "time": "05:00 PM - 07:30 PM",
+      "venue": "CSE BLOCK",
+      "registrationStatus": "OPEN",
+      "iconName": "Music",
+      "createdAt": "2026-10-03T07:13:24.907Z"
+    },
+    {
+      "id": "evt_005",
+      "name": "Hall of Fame: Senior Awards & Memento Gala",
+      "tagline": "Honoring the 2021-2027 Graduating CSE Batch (6-Year Integrated)",
+      "description": "Prestigious memento distribution for all graduating seniors (2021-2027 batch), celebrating their complete 6-year journey (2 years PUC + 4 years B.Tech), batch superlative announcements, and grand farewell photo sessions.",
+      "category": "Ceremony",
+      "rules": [
+        "Formal / Ethnic dress code recommended.",
+        "Entry strictly verified with Digital QR Entry Pass.",
+        "Every graduating 2021-2027 CSE senior receives a custom 6-year farewell souvenir."
+      ],
+      "eligibility": "Compulsory for all 4th Year B.Tech CSE (2021-2027 Batch)",
+      "maxParticipants": 200,
+      "currentRegistrations": 85,
+      "date": "20 MARCH 2027",
+      "time": "07:30 PM - 09:30 PM",
+      "venue": "CSE BLOCK",
+      "registrationStatus": "OPEN",
+      "iconName": "Award",
+      "createdAt": "2026-10-03T07:13:24.907Z"
+    },
+    {
+      "id": "evt_006",
+      "name": "Cipher Hunt: The CSE Mystery Trail",
+      "tagline": "Decode Ciphers, Follow Hashes, Unlock The Vault",
+      "description": "A campus-wide tech treasure hunt. Clues hidden behind QR codes, steganography images, and terminal challenges across the engineering block.",
+      "category": "Fun",
+      "rules": [
+        "Teams of 2 to 3 students.",
+        "Smartphones with internet required.",
+        "First team to unlock the master key wins."
+      ],
+      "eligibility": "3rd & 4th Year CSE",
+      "maxParticipants": 60,
+      "currentRegistrations": 28,
+      "date": "20 MARCH 2027",
+      "time": "01:00 PM - 03:00 PM",
+      "venue": "CSE BLOCK",
+      "registrationStatus": "OPEN",
+      "iconName": "Compass",
+      "createdAt": "2026-10-03T07:13:24.907Z"
+    },
+    {
+      "id": "evt_1791033894720_qv7u",
+      "name": "HHO FUN GAMES",
+      "tagline": "PLAY WITH JOY",
+      "description": "ENJOY WITH UR FRNDS",
+      "category": "Fun",
+      "rules": [
+        "Individual participation"
+      ],
+      "eligibility": "3rd & 4th Year CSE Students",
+      "maxParticipants": 100,
+      "currentRegistrations": 0,
+      "date": "20 MARCH 2027",
+      "time": "10:30 AM",
+      "venue": "CSE BLOCK",
+      "registrationStatus": "OPEN",
+      "iconName": "Code2",
+      "createdAt": "2026-10-03T13:24:54.720Z"
+    }
+  ],
+  "eventRegistrations": [
+    {
+      "id": "ereg_1791034186790_mzlhj",
+      "studentId": "usr_std_1791034017639_44du",
+      "eventId": "evt_1791033894720_qv7u",
+      "registeredAt": "2026-10-03T13:29:46.790Z"
+    },
+    {
+      "id": "ereg_1791034294560_3usyc",
+      "studentId": "usr_std_1791034017639_44du",
+      "eventId": "evt_004",
+      "registeredAt": "2026-10-03T13:31:34.560Z"
+    },
+    {
+      "id": "ereg_1791034306164_pshn0",
+      "studentId": "usr_std_1791034017639_44du",
+      "eventId": "evt_005",
+      "registeredAt": "2026-10-03T13:31:46.164Z"
+    },
+    {
+      "id": "ereg_1791034306590_moape",
+      "studentId": "usr_std_1791034017639_44du",
+      "eventId": "evt_006",
+      "registeredAt": "2026-10-03T13:31:46.590Z"
+    },
+    {
+      "id": "ereg_1791034326996_jyn6s",
+      "studentId": "usr_std_1791034017639_44du",
+      "eventId": "evt_002",
+      "registeredAt": "2026-10-03T13:32:06.996Z"
+    },
+    {
+      "id": "ereg_1791034327014_yzjbv",
+      "studentId": "usr_std_1791034017639_44du",
+      "eventId": "evt_003",
+      "registeredAt": "2026-10-03T13:32:07.014Z"
+    },
+    {
+      "id": "ereg_1791034351233_w6lze",
+      "studentId": "usr_std_1791034017639_44du",
+      "eventId": "evt_001",
+      "registeredAt": "2026-10-03T13:32:31.233Z"
+    },
+    {
+      "id": "ereg_1791056222586_sog57",
+      "studentId": "usr_std_1791056204841_bfnk",
+      "eventId": "evt_002",
+      "registeredAt": "2026-10-03T19:37:02.587Z"
+    },
+    {
+      "id": "ereg_1791056225199_as9o7",
+      "studentId": "usr_std_1791056204841_bfnk",
+      "eventId": "evt_001",
+      "registeredAt": "2026-10-03T19:37:05.199Z"
+    },
+    {
+      "id": "ereg_1791056233154_vi4bg",
+      "studentId": "usr_std_1791056204841_bfnk",
+      "eventId": "evt_003",
+      "registeredAt": "2026-10-03T19:37:13.154Z"
+    },
+    {
+      "id": "ereg_1791118401186_28tdt",
+      "studentId": "usr_std_1791118345872_y13u",
+      "eventId": "evt_004",
+      "registeredAt": "2026-10-04T12:53:21.186Z"
+    },
+    {
+      "id": "ereg_1791118404303_9rchv",
+      "studentId": "usr_std_1791118345872_y13u",
+      "eventId": "evt_005",
+      "registeredAt": "2026-10-04T12:53:24.303Z"
+    },
+    {
+      "id": "ereg_1791118405891_jvc7t",
+      "studentId": "usr_std_1791118345872_y13u",
+      "eventId": "evt_006",
+      "registeredAt": "2026-10-04T12:53:25.891Z"
+    },
+    {
+      "id": "ereg_1791139682494_m0che",
+      "studentId": "usr_admin_001",
+      "eventId": "evt_001",
+      "registeredAt": "2026-10-04T18:48:02.494Z"
+    },
+    {
+      "id": "ereg_1791139685065_4mggx",
+      "studentId": "usr_admin_001",
+      "eventId": "evt_002",
+      "registeredAt": "2026-10-04T18:48:05.065Z"
+    },
+    {
+      "id": "ereg_1791139687274_lwrhd",
+      "studentId": "usr_admin_001",
+      "eventId": "evt_003",
+      "registeredAt": "2026-10-04T18:48:07.274Z"
+    },
+    {
+      "id": "ereg_1791364495090_b7cwe",
+      "studentId": "usr_std_1791054691525_oels",
+      "eventId": "evt_002",
+      "registeredAt": "2026-10-07T09:14:55.090Z"
+    },
+    {
+      "id": "ereg_1791364501504_6yacj",
+      "studentId": "usr_std_1791054691525_oels",
+      "eventId": "evt_001",
+      "registeredAt": "2026-10-07T09:15:01.504Z"
+    }
+  ],
+  "attendance": [
+    {
+      "id": "att_1791034095135_17i7h",
+      "studentId": "usr_std_1791034017639_44du",
+      "collegeId": "22CS100",
+      "studentName": "MOHAN",
+      "year": "3rd Year",
+      "department": "CSE",
+      "qrToken": "SAY-22CS100-FQVN2",
+      "checkedIn": true,
+      "checkedInAt": "2026-10-03T13:28:15.135Z",
+      "verifiedBy": "CSE Head Coordinator"
+    },
+    {
+      "id": "att_1791121164938_1twi4",
+      "studentId": "usr_std_1791054691525_oels",
+      "collegeId": "O220933",
+      "studentName": "hadj",
+      "year": "3rd Year",
+      "department": "CSE",
+      "qrToken": "SAY-O220933-I6UF5",
+      "checkedIn": true,
+      "checkedInAt": "2026-10-04T13:39:24.938Z",
+      "verifiedBy": "CSE Head Coordinator"
+    },
+    {
+      "id": "att_1791121174707_8i31i",
+      "studentId": "usr_std_1791118345872_y13u",
+      "collegeId": "O221160",
+      "studentName": "SIDDABOINA BRAMHAJI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "qrToken": "SAY-O221160-BH52X",
+      "checkedIn": true,
+      "checkedInAt": "2026-10-04T13:39:34.707Z",
+      "verifiedBy": "CSE Head Coordinator"
+    },
+    {
+      "id": "att_1791276871697_bwycb",
+      "studentId": "usr_std_1791276021848_s8gj",
+      "collegeId": "O221126",
+      "studentName": "AKIRI MADHU",
+      "year": "3rd Year",
+      "department": "CSE",
+      "qrToken": "SAY-O221126-Z7PYP",
+      "checkedIn": true,
+      "checkedInAt": "2026-10-06T08:54:31.697Z",
+      "verifiedBy": "CSE Head Coordinator"
+    },
+    {
+      "id": "att_1791364836220_9047h",
+      "studentId": "usr_std_1791056204841_bfnk",
+      "collegeId": "O221137",
+      "studentName": "TUMMI JYOTHSNA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "qrToken": "SAY-O221137-SHKO4",
+      "checkedIn": true,
+      "checkedInAt": "2026-10-07T09:20:36.220Z",
+      "verifiedBy": "CSE Head Coordinator"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "ann_003",
+      "title": "Calling All Artists & Performers for Synapse Beats",
+      "content": "Solo vocalists, rock bands, and dance crews can submit audition tracks through the Events page by registering under Synapse Beats.",
+      "priority": "event",
+      "createdAt": "2026-10-03T07:13:24.907Z"
+    },
+    {
+      "id": "ann_002",
+      "title": "Venue & Final Date Announcement Notice",
+      "content": "The dates are being finalized by the CSE Department council between late March and early April. Stay tuned for the official countdown release!",
+      "priority": "normal",
+      "createdAt": "2026-10-02T07:13:24.907Z"
+    },
+    {
+      "id": "ann_001",
+      "title": "Registration Portal Is Live for 3rd & 4th Year CSE!",
+      "content": "Welcome to SAYONARA 2026! Register with your College ID to generate your secure Digital QR Entry Pass. Pass is mandatory for entry and memento collection.",
+      "priority": "urgent",
+      "createdAt": "2026-10-01T07:13:24.907Z"
+    }
+  ],
+  "settings": {
+    "festName": "SAYONARA",
+    "subtitle": "CSE FAREWELL FEST",
+    "tagline": "A farewell experience built by CSE, for CSE. Celebrating 6 years: 2 years PUC & 4 years B.Tech.",
+    "department": "Computer Science & Engineering",
+    "eventDate": "20 MARCH 2027",
+    "venue": "CSE BLOCK",
+    "registrationOpen": true,
+    "eligibleYears": [
+      "3rd Year",
+      "4th Year"
+    ],
+    "contactEmail": "rhariesh1@gmail.com",
+    "contactPhone": "+91 7842439105",
+    "heroNotice": "Official Registrations Open • 6-Year Integrated B.Tech • CSE BLOCK",
+    "bannerMessage": "CELEBRATING 2021-2027 BATCH (6 YEARS: 2 YRS PUC + 4 YRS B.TECH) • CSE BLOCK • 20 MARCH 2027"
+  },
+  "team": [
+    {
+      "id": "team_001",
+      "name": "Dr. K. S. Ramanathan",
+      "role": "Head of Department, CSE",
+      "category": "Faculty Coordinator",
+      "department": "CSE",
+      "contact": "hod.cse@college.edu"
+    },
+    {
+      "id": "team_002",
+      "name": "Prof. Meera Vasudevan",
+      "role": "Faculty Staff Advisor",
+      "category": "Faculty Coordinator",
+      "department": "CSE",
+      "contact": "meera.cse@college.edu"
+    },
+    {
+      "id": "team_003",
+      "name": "Aakash Nambiar",
+      "role": "Student Lead (4th Year B.Tech / 2021-2027)",
+      "category": "Student Lead",
+      "department": "CSE",
+      "contact": "+91 98111 22334"
+    },
+    {
+      "id": "team_004",
+      "name": "Sanya Roy",
+      "role": "Event Co-Lead (3rd Year B.Tech / 2022-2028)",
+      "category": "Student Lead",
+      "department": "CSE",
+      "contact": "+91 98222 33445"
+    },
+    {
+      "id": "team_005",
+      "name": "Devanshu Mehta",
+      "role": "Tech Lead & System Architect",
+      "category": "Technical Team",
+      "department": "CSE",
+      "contact": "tech.sayonara@college.edu"
+    },
+    {
+      "id": "team_006",
+      "name": "Pooja Hegde",
+      "role": "Creative & Visual Design Lead",
+      "category": "Creative & Media",
+      "department": "CSE",
+      "contact": "design.sayonara@college.edu"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal_001",
+      "title": "PUC to B.Tech: CSE 6-Year Flashback Reel",
+      "category": "Farewell Memories",
+      "year": "2021-2027",
+      "imageUrl": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?auto=format&fit=crop&w=800&q=80",
+      "mediaType": "video",
+      "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "description": "A tribute video walking through 2 years in PUC dorms to 4 years of engineering labs at CSE BLOCK."
+    },
+    {
+      "id": "gal_002",
+      "title": "Batch 2021-2027 Farewell Group Portrait",
+      "category": "Farewell Memories",
+      "year": "2021-2027",
+      "imageUrl": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?auto=format&fit=crop&w=800&q=80",
+      "mediaType": "photo",
+      "description": "Graduating seniors honoring six unforgettable years with faculty and batchmates at CSE BLOCK."
+    },
+    {
+      "id": "gal_003",
+      "title": "Midnight 36-Hr Hackathon Victory",
+      "category": "Campus Life",
+      "year": "2021-2027",
+      "imageUrl": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
+      "mediaType": "photo",
+      "description": "Late night debugging, endless chai, and winning national level software trophies."
+    },
+    {
+      "id": "gal_004",
+      "title": "Auditorium Live Concert & Acoustics Highlights",
+      "category": "Sports & Culturals",
+      "year": "2021-2027",
+      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80",
+      "mediaType": "video",
+      "videoUrl": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+      "description": "Live musical performances, stage lights, and cheering crowds during annual college fest."
+    },
+    {
+      "id": "gal_005",
+      "title": "Turing Lab Coding Sessions & Vivas",
+      "category": "Department Labs",
+      "year": "2021-2027",
+      "imageUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80",
+      "mediaType": "photo",
+      "description": "Inside CSE Turing Lab: surviving complex OS algorithms, compiler design, and project vivas."
+    },
+    {
+      "id": "gal_006",
+      "title": "LAN Esports Arena Showdown",
+      "category": "Campus Life",
+      "year": "2021-2027",
+      "imageUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80",
+      "mediaType": "photo",
+      "description": "The fierce Valorant and BGMI seniors vs juniors gaming clash on the big auditorium screen."
+    }
+  ],
+  "messages": [
+    {
+      "name": "Aakash Roy",
+      "collegeId": "21CS099",
+      "email": "aakash@college.edu",
+      "subject": "Pass QR Inquiry",
+      "message": "Can I re-download my QR pass from multiple devices?",
+      "id": "msg_1791051322544_2mb4n",
+      "createdAt": "2026-10-03T18:15:22.544Z"
+    }
+  ],
+  "eligibleStudents": [
+    {
+      "collegeId": "O221137",
+      "name": "TUMMI JYOTHSNA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220702",
+      "name": "VARIKUTI LOKESWAREDDY",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221048",
+      "name": "MARLA SOWMYA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220552",
+      "name": "PERINA SNEHASRI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "S220697",
+      "name": "THURUPATI DEEPA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221160",
+      "name": "SIDDABOINA BRAMHAJI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220281",
+      "name": "VADLAMUDI SIVA NARAYANA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "S220198",
+      "name": "RAVIPATI HIMA VARSHINI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220090",
+      "name": "PARIMI ROHAK",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "S220178",
+      "name": "SAREDDY GOWTHAMI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220473",
+      "name": "PONNADA ALEKHYA SUBRAHMANYA VALLI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221170",
+      "name": "NELAMALLI TEJASREE",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220928",
+      "name": "MADHIRA MADHU PRIYA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220792",
+      "name": "CHILAKALAPUDI GOURIPUJITHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220436",
+      "name": "MALLEM SREENIVASULU",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220348",
+      "name": "JANAGAM SRILAXMI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220486",
+      "name": "GANISETTI YAMINI NAGA DURGA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220134",
+      "name": "TAMMA BRAMARAMBA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220151",
+      "name": "MERIKAPUDI VENKATA BRAMHENDRA KUMAR",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220627",
+      "name": "PATHAN SHARUK KHAN",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221012",
+      "name": "K SRINIVAS",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221102",
+      "name": "MESA SWATHI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "S221178",
+      "name": "CHEJARLA ARCHANA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221010",
+      "name": "ANDRAJU YONA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220820",
+      "name": "PARABATHINA REENA JESSY KIRAN",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220643",
+      "name": "KATURI SOWMYA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220480",
+      "name": "SAMEERA SHAIK",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220922",
+      "name": "JATOTH NANDINI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220779",
+      "name": "KATTA KALYANI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220430",
+      "name": "MALLADI NAGALAKSHMI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220101",
+      "name": "PUTTA SIVALEELA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220917",
+      "name": "MALLISETTY RUSHMITHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "S220059",
+      "name": "GAVVALA MAHESH KUMAR",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221021",
+      "name": "VANDRASI SRAVANI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220741",
+      "name": "THOTA TIRUPATAMMA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220118",
+      "name": "NALLURI BHAVYA SRI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220042",
+      "name": "KAMINENI BINDU MEGHANA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220653",
+      "name": "PULAGORLA LAKSHMI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220599",
+      "name": "KANDIPATI NEHARIKA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220445",
+      "name": "NEESU CHAITANYASREE",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220276",
+      "name": "JATAVATHU UMAMAHESWARI BAI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "S220671",
+      "name": "KOLAPARTHI CHARSHITHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220345",
+      "name": "SHAIK DILSHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220082",
+      "name": "MADDU SHOWRI SUDEEP",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220770",
+      "name": "VINTI SAILAJA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "S220586",
+      "name": "ARURU AMUKTHA MALYADA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220107",
+      "name": "ASADI PRATIBHA KUMARI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220757",
+      "name": "TANIKONDA NAVYA SREE",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220931",
+      "name": "MOTAPOTHULA VENKATA NAGA NAVYA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221107",
+      "name": "CHILUMURI SUMANYA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220339",
+      "name": "BUSSA MOHAN TEJA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221106",
+      "name": "AVULASETTY SRAVANTHI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "S220031",
+      "name": "VELUGOTI LATHIKA REDDY",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220458",
+      "name": "DURISALA RESHMA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221142",
+      "name": "MANIMALA GANGA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220615",
+      "name": "GOPAVARAPU NIHARIKA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220505",
+      "name": "PERISETLA PAVANI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220412",
+      "name": "VINJAMURI MOULIKA NAGA LAKSHMI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220193",
+      "name": "NAGURU KEERTHI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220610",
+      "name": "SHAIK SALMA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220286",
+      "name": "ANDRA SAI CHARAN",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221037",
+      "name": "DHULIPALLA SAI RAMOJI KARTHIKEYA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "S221124",
+      "name": "SAIKAM YAMINI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220818",
+      "name": "KOMMATHOTI MARIYAMMA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220830",
+      "name": "NENAVATH MOUNIKA BAI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220451",
+      "name": "KADULURU CHERISHMA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220559",
+      "name": "LOLLA PUJITHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221148",
+      "name": "MAMIDI SIVANI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221077",
+      "name": "MULAGUNDLA VARSHINI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220933",
+      "name": "KOPPALA HARIESH",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220184",
+      "name": "BATTINA AKHILANDESWARI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220519",
+      "name": "THORLAKONDA VENKATA VASAVI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220037",
+      "name": "TALASILA RUPA SREE",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O211031",
+      "name": "GUJJALA SHIVA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221036",
+      "name": "CHIDELLA SIVA NAGARAJU",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221029",
+      "name": "JANNETI LALITHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "S220109",
+      "name": "BADDAM AKANKSHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220426",
+      "name": "LENKA SATHVIKA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220269",
+      "name": "BHOGIREDDI TEJA SRI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220397",
+      "name": "BADAMPUDI LAKSHMI DURGA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220547",
+      "name": "SHAIK SAMEERA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220102",
+      "name": "CHAVALA DIVYA SRI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221168",
+      "name": "KONCHADA CHARAN KUMAR",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "S220621",
+      "name": "CHINTHAGUNTLA ROJA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221099",
+      "name": "BADINEEDI SAI POOJITHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221011",
+      "name": "UYYALA MEGHANA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220543",
+      "name": "ALURI PRIYADARSHINI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220637",
+      "name": "NEELI KEERTHANA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220307",
+      "name": "VOTLA DOLADEVI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O210962",
+      "name": "DUGGIRALA DEEKSHITHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220027",
+      "name": "PARVATHAM RUSHITHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220936",
+      "name": "BANAVATHU PREM KUMAR",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220285",
+      "name": "SIBBALA JYOTHI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220114",
+      "name": "PALEPU SIVA KOTESWARA RAO",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O211064",
+      "name": "MALA SREERAM",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220177",
+      "name": "NAGARIKANTI VENKATA SRAVANI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220699",
+      "name": "GALI GNAHITHA REDDY",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220399",
+      "name": "AYYALURI KIRAN MAI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220687",
+      "name": "CHALAMALA SASIDHAR",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221114",
+      "name": "SAGI JYOTHI PRIYA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220879",
+      "name": "SHAIK SABIHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220564",
+      "name": "YEMINEDI SUMANJALI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220336",
+      "name": "ELAPARTHI SANJANA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221143",
+      "name": "GANTA SRAVANI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220648",
+      "name": "YALAMANCHILI MOUNIKA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220796",
+      "name": "BANDA GOVARDHAN",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220305",
+      "name": "PATHIPATI NAGALAKSHMI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "S220664",
+      "name": "DUDEKULA AZAD ALI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220401",
+      "name": "JANNI TEJA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220431",
+      "name": "KALLURI DURGA BHAVANI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220077",
+      "name": "KOMMI SREEMITHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221125",
+      "name": "BOMMANA NIHARIKA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220651",
+      "name": "NANDI YASWANTH",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "S220467",
+      "name": "PALAVARI NAVYASREE",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220688",
+      "name": "JALLI MAHENDRA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220565",
+      "name": "CHITTA NAGA SARAYU",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221126",
+      "name": "AKIRI MADHU",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220729",
+      "name": "K DURGA SRI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220255",
+      "name": "JEEREDDY ABINAYA SREE",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220136",
+      "name": "SANDADI SURYA TEJA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220708",
+      "name": "SHAIK AFRINA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220557",
+      "name": "KAMA ASHWITHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "S220231",
+      "name": "TALLA NAGA VENKATA PUJITHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220359",
+      "name": "BOMMISETTY BALA YASASWI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220866",
+      "name": "MANDLA AKHILA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "S220524",
+      "name": "SHAIK THOUHID",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220941",
+      "name": "KANAKAPUDI SINDHU",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221111",
+      "name": "ANDELA PRANATHI SRI KAVYA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220167",
+      "name": "SHAIK SUHEL AKTAR",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221026",
+      "name": "RAMELLA CHANDRA SEKHAR",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220664",
+      "name": "SHAIK SHAGUFTHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220546",
+      "name": "SYED IMAN",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O210840",
+      "name": "SUHANA SK",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220382",
+      "name": "PASAM VENKATA DEVENDRA NATH",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220363",
+      "name": "VENNA VIJAYA LAKSHMI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "S220318",
+      "name": "JINKALA VIDYA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "S220339",
+      "name": "THOKALA VAMSI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220186",
+      "name": "RACHURI MADHURAVANI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220200",
+      "name": "SYED TAHASIN",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220435",
+      "name": "MALAVATHU KARTHIK",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220622",
+      "name": "VURE ANUHYA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220836",
+      "name": "KASUKURTHI DEEPTHI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220754",
+      "name": "PALTHYAVATH SATHYA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O211077",
+      "name": "BORIGORLA VYSHNAVI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220558",
+      "name": "YELCHURI BHAVYASRI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220870",
+      "name": "VUTLA VAISHANAVI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220794",
+      "name": "SAVARAM JAGADHEESH",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220240",
+      "name": "GUNTUPALLI NAVYA LAKSHMI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220821",
+      "name": "AKURATHI MARIYA SRI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220756",
+      "name": "RUNJALA CHARAN RAJ",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220456",
+      "name": "AMBATI SIVA KUMAR",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220601",
+      "name": "DHARAVATHU SANDHYA RANI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220859",
+      "name": "GANDEM PHANI KUMAR",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220455",
+      "name": "YARLAGADDA MADHU LATHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220180",
+      "name": "NIDAMANURI RAM CHARAN",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220058",
+      "name": "ANNAPA REDDY JYOTHI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O221078",
+      "name": "BURE JAGAN",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220202",
+      "name": "GOSULA JAHNAVI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220035",
+      "name": "ERRI APARNA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220625",
+      "name": "ANNAMDEVARA DURGA NAGA GOWRI HARSHITHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220503",
+      "name": "GUDE HEMALATHA",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220032",
+      "name": "YELLIGARAPU MADHAVI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220869",
+      "name": "ADIREDDY SWATHI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O220617",
+      "name": "GULLIPALLI MAHESWARI",
+      "year": "3rd Year",
+      "department": "CSE",
+      "batch": "O22"
+    },
+    {
+      "collegeId": "O200724",
+      "name": "GUNA VENKATA SAI KUMAR",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210007",
+      "name": "MALE PAVANI SAI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210008",
+      "name": "DESU SREECHARAN",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210013",
+      "name": "PATHAN IRFANA KHANAM",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210014",
+      "name": "CHIRAMANENI ROHITH",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210025",
+      "name": "PATHAN IMRANA KHANAM",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210030",
+      "name": "TUMMALA KEERTHI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210031",
+      "name": "BHIMA RUCHITHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210036",
+      "name": "JAYA SRI VARDHAN SAMGOJU",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210053",
+      "name": "INTI YUVA SRI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210066",
+      "name": "PASUPULETI VENKATA PADMA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210081",
+      "name": "ANKEPALLI VENKATA KALYANI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210087",
+      "name": "JONNADULA MOUNIKA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210099",
+      "name": "CHANDOLU KALYANI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210104",
+      "name": "JONNALAGADDA SANDEEP",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210115",
+      "name": "VENKATA LEELADHAR ABBURI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210119",
+      "name": "SANIKOMMU VIJAYA BHASKAR REDDY",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210129",
+      "name": "GANJANABOYINA TEJA SAI DEEPIKA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210137",
+      "name": "GOLLA NANDINI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210139",
+      "name": "DAMARLA SEETHA RAM PRAVEEN",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210143",
+      "name": "PADAMATI RAGHURAMAIAH",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210173",
+      "name": "RANGANAPALEM KOTESWARA RAO",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210191",
+      "name": "BALLA HARSHITHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210193",
+      "name": "MAKKENA ARAVIND",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210195",
+      "name": "CHEGIREDDY MADHUSUDHAN REDDY",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210213",
+      "name": "NAIDU PAVAN",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210218",
+      "name": "SHAIK YOUNUS",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210219",
+      "name": "KSHATRI RISHITHA BAI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210221",
+      "name": "CHILLAPALLI THRUSHNA DEEPIKA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210225",
+      "name": "DANDU ESWARA LAKSHMI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210241",
+      "name": "MEENUGA ARYA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210248",
+      "name": "MUKKALA ASHINI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210273",
+      "name": "UPPALAPATI ADHIKSHA REDDY",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210282",
+      "name": "NUTHAKKI BHARGAVI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210283",
+      "name": "GOGINENI VIJAYALAKSHMI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210292",
+      "name": "SIVALA DEVI SRI PRSAD",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210302",
+      "name": "KOMMASANI SRAVANTHI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210306",
+      "name": "NARABOINA VENKATADRI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210307",
+      "name": "BEVARA MANIKANTA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210314",
+      "name": "VADDEMGUNTA DHARANI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210318",
+      "name": "MALLIREDDY GUNALAKSHMISRUTHI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210329",
+      "name": "ALAHARI BHANU PRAKASH",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210339",
+      "name": "AINAVILLI SATISH",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210353",
+      "name": "CHUNDURI KARUNYA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210377",
+      "name": "PALLI ANUSHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210396",
+      "name": "GUNDA TRIVENI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210415",
+      "name": "MADDU VISHNU VARDHAN",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210427",
+      "name": "KAMANURU PRASANTHI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210429",
+      "name": "YELLAPU HARSHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210433",
+      "name": "MUKTAPURAM PAVANARUPA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210435",
+      "name": "PEDDINTI SRAVANI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210446",
+      "name": "ASAPANNA SRIHARI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210449",
+      "name": "KAMMARI TEJESWAR ACHARI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210459",
+      "name": "RAMIREDDY HARATHI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210462",
+      "name": "MEDURU SUNANDA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210473",
+      "name": "SRUTHI UDATHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210533",
+      "name": "MANNURU HARSHITH REDDY",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210604",
+      "name": "K.SRUTHI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210609",
+      "name": "NIMMAKAYALA JAHNAVI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210647",
+      "name": "HANUMANTHU SATYANARAYANA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210652",
+      "name": "KONA SRI NAGA VENKATA ANAND SAI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210667",
+      "name": "MADANU KUMAR JOSEPH MARIYA NIKHIL",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210687",
+      "name": "KALAVALA VENKATA NAGA SUSMITHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210731",
+      "name": "CHINTHA BHAVYA SAHITHI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210773",
+      "name": "GUMPENA SAI VENKAT",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210786",
+      "name": "BITRA DEDEEPYA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210791",
+      "name": "MADICHARLA NAGA MOHAN",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210818",
+      "name": "PILLI SRUJANA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210828",
+      "name": "K. AKHILA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210829",
+      "name": "VELPURI ANAND",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210835",
+      "name": "MANNEPALLI PRIYANKA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210842",
+      "name": "SHAIK ARIFA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210855",
+      "name": "SHAIK KHADEER",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210860",
+      "name": "SHAIK AYESHA AYUB",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210870",
+      "name": "YADALA VASAVI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210880",
+      "name": "MUNDRU HARIKA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210896",
+      "name": "KOTHA MANASA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210900",
+      "name": "SWARNA RAJASEKHAR",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210910",
+      "name": "MOTURU SREESANTH",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210947",
+      "name": "KOMARABATHINA YONATHANU",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210963",
+      "name": "RAMOJI THOSHAN KUMAR",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210970",
+      "name": "MEMMERLA PRAJWALITHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210999",
+      "name": "PALTHE KARTHIK NAIK",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O211022",
+      "name": "SRIRAMULA BHARATHI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O211049",
+      "name": "BASIREDDY JAYA SANKAR REDDY",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O211105",
+      "name": "EDULAMUDI VENNELA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "S210656",
+      "name": "NELLORE DEEPIKA REDDY",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "S210688",
+      "name": "GAJULA PRAVEENA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "S210768",
+      "name": "SUDDULA MADHU MEGHANA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "S211028",
+      "name": "RAMAVATH BHARGAVI BAI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210037",
+      "name": "THOTA SIVANAGENDRASENA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210038",
+      "name": "KOKKERA DURGA PRASAD",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210045",
+      "name": "RAVULA SUKANYA LAKSHAMI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210048",
+      "name": "BALLA PRATHIMA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210068",
+      "name": "POKALI DEEPTHIKA RANI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210075",
+      "name": "SEELAM BHARGAV RAO",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210078",
+      "name": "BALISETTY LOHITHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210095",
+      "name": "NERELLA MANASWI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210122",
+      "name": "KUNCHALA JEESHITHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210130",
+      "name": "PAMISETTY SANDEEP KUMAR",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210149",
+      "name": "VEPADA NANDINI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210187",
+      "name": "PUTLURU MADHUSUDHANREDDY",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210205",
+      "name": "RANGALA MAMATHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210232",
+      "name": "KURELLA RANJITH KUMAR",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210245",
+      "name": "KURAKULA JAAJI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210249",
+      "name": "NIDADAVOLU NANDINI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210285",
+      "name": "OBENABOINA LAVANYA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210295",
+      "name": "M CHETAN SAI PAVAN KUMAR",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210323",
+      "name": "KARNAM HEMANTH KUMAR",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210355",
+      "name": "DEVARA ASHRITHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210364",
+      "name": "PIDIKITI YASWANTH",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210380",
+      "name": "GUNDLAPALLI SIVATEJA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210410",
+      "name": "GOLLU GANGUNAIDU",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210464",
+      "name": "KORATAMADDI YOGA NANDINI REDDY",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210468",
+      "name": "PAMISETTY PRAVEENKUMAR",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210484",
+      "name": "EERLA AKSHAYA DEEPIKA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210488",
+      "name": "BUSAM VINAYA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210499",
+      "name": "M P POOJITHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210505",
+      "name": "DEVARAJUGATTU VENKATAMADHU",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210506",
+      "name": "KUNDURU YASWANTH REDDY",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210509",
+      "name": "C.SREEKANTH REDDY",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210524",
+      "name": "VANGALI PHANI KUMAR",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210535",
+      "name": "DURGAM MASTHANBEE",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210537",
+      "name": "GORRE PAVANI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210540",
+      "name": "TEDDU BHARGAVI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210543",
+      "name": "GUTTIREDDY SUDARSHAN REDDY",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210544",
+      "name": "EEMANI GAYATHRI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210551",
+      "name": "CHAKKA PAVITHRA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210557",
+      "name": "RUNKU CHAKRA VARSHINI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210569",
+      "name": "SHAIK JAKEER HUSSAIN",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210573",
+      "name": "DASARADHA LOVADEVI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210576",
+      "name": "NARISETTY HARSHITA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210579",
+      "name": "GUNTAKA KAVYA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210591",
+      "name": "KALA UDAY SAI SRIKAR",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210612",
+      "name": "POTNURU TEJASWINI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210629",
+      "name": "BONU CHAITRIKA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210650",
+      "name": "SURA UDAYKIRAN",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210682",
+      "name": "MATTA PUJITHA DEVI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210707",
+      "name": "THIKKAVARAPU SAI PUJITHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210712",
+      "name": "KORUPROLU JAYA VEERA SRAVANI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210741",
+      "name": "SHAIK VELIGANDLA YASMIN",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210754",
+      "name": "KORLA RUCHITHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210777",
+      "name": "SHAIK SAYEED AHMED",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210783",
+      "name": "RAYAPUDI KANTHI SWARUPA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210794",
+      "name": "JONNA SASANK",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210815",
+      "name": "VALLEPU VIJAYA LAKSHMI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210836",
+      "name": "GOLLA SANTHOSH KUMAR",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210861",
+      "name": "EEDA GOWTHAM",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210865",
+      "name": "CHILAKA BHARATH",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210866",
+      "name": "KORIVI RAMBABU",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210871",
+      "name": "SHAIK PARVEEN",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210873",
+      "name": "DEVARAKONDA DEVENDRA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210886",
+      "name": "GARNEPUDI RAYAL VAMSI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210897",
+      "name": "SALAGALA PRIYANKA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210898",
+      "name": "BEDAMPUDI LAVANYA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210905",
+      "name": "NUTHANGI CHAITANYA KARTHIK",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210908",
+      "name": "BANDELA RENUKA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210920",
+      "name": "VALAPATLA YASWANTH",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210928",
+      "name": "BILLA YASHASRI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210935",
+      "name": "PERABATHINA SUSMITHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210937",
+      "name": "ALAPATI JAHNAVI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210951",
+      "name": "TATAPUDI SUNNY KIRAN",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210960",
+      "name": "VEERAVAPULA RAJU",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210980",
+      "name": "GADIDESI PRAISY PAULIN",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210989",
+      "name": "VADITHE ANJI NAIK",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210991",
+      "name": "GARIKAPATI BALA SRAVANI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O211000",
+      "name": "PALAKEERTHI ANKITHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O211004",
+      "name": "KETHAVATH POOJITHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O211007",
+      "name": "PULLAREDDY SANDEEP",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O211036",
+      "name": "LAVADIYA KAMAKSHI BAI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O211040",
+      "name": "MALLIREDDY PRASANNA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O211082",
+      "name": "MARRI KIRAN KUMAR",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O211088",
+      "name": "SONTHI NAGESWARA RAO",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O211117",
+      "name": "SEELAM NIKHIL",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O211124",
+      "name": "GUTTULA VISWA VANITHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O211125",
+      "name": "VAKA JISHNAVI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O211129",
+      "name": "DOKKARI DIVAKAR",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O211136",
+      "name": "KEERTHI CHINTHALA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "S210692",
+      "name": "MEDIDINNE AMRUTHAVALLI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "S210754",
+      "name": "TUMMALURU SIVADEEPIKA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O200258",
+      "name": "J VENKATA SAIDA CHARY",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210033",
+      "name": "THIPPANABOINA RAMYA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210035",
+      "name": "YARRAMSETTY SAI SIREESHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210044",
+      "name": "POTHINA UMA GAYATHRI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210049",
+      "name": "GALI BHAVANA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210050",
+      "name": "BANDARUPALLI RAMYA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210052",
+      "name": "THATIPARTHI JANAKI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210065",
+      "name": "VARIKUNTA LAHARI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210072",
+      "name": "KONDAPALLI JHANSILAKSHMI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210091",
+      "name": "ANNEM SAHITHI REDDY",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210103",
+      "name": "GUNJI MALLESWARI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210106",
+      "name": "SWARGAM YASWANTH",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210111",
+      "name": "MANIKUMARI YANAMALAMANDA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210112",
+      "name": "PAPOLU KEERTHANA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210118",
+      "name": "UPPU POORNA SAI BHAVANA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210121",
+      "name": "UPPALA RAMADEVI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210138",
+      "name": "TAVVA BHAVYA SRI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210145",
+      "name": "KANUMURI CHINMAYEE",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210147",
+      "name": "PATCHARU NAGA VENKATA HARINI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210148",
+      "name": "TAKELAPATI JAYANTH",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210150",
+      "name": "NUKALA BALA MANIKANTA REDDY",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210158",
+      "name": "GANTA MAADESH",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210178",
+      "name": "RUDRARAJU LAKSHMI SAI MOULIKA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210190",
+      "name": "SHAIK SHAJIDA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210198",
+      "name": "CHITTIBOINA VAMSI KRISHNA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210207",
+      "name": "MANNAM RAMYA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210212",
+      "name": "BODDU VINILA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210230",
+      "name": "ALAM LAKSHMI NAGA SRINIVAS",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210235",
+      "name": "KANDLAGUNTA NIKHIL KUMAR",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210250",
+      "name": "SK. MAYIF",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210263",
+      "name": "KUNCHALA MANOJ KUMAR",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210271",
+      "name": "SURE KALYANI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210293",
+      "name": "CHAITANYA ALUBILLI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210299",
+      "name": "KALLA ESWAR",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210303",
+      "name": "BEERAM GOPICHAND",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210308",
+      "name": "NAMMI MEENAKSHI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210309",
+      "name": "CHITRALA KARTHIK",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210326",
+      "name": "ALLU KOUSHIK",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210331",
+      "name": "KOLUSU SUJATHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210332",
+      "name": "JONNALAGADDA YASWANTH KRISHNA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210342",
+      "name": "VENNI USHA SRI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210343",
+      "name": "VISHNU GOPINADH REDDY KOTHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210352",
+      "name": "KANDUKURI HARI ESWAR SAI MANI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210366",
+      "name": "SAMIREDDI JYOTHI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210367",
+      "name": "DASARI MAHESWARI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210384",
+      "name": "JELLA RAMANJANEYA REDDY",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210386",
+      "name": "NAGISETTY CHINMAI SAI CHANDANA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210405",
+      "name": "DOKI POOJITHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210425",
+      "name": "SENAPATHI VENKATA SAI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210426",
+      "name": "MOHAMMAD HASHMAT JAHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210437",
+      "name": "POTNURU KAVYA RUPINI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210444",
+      "name": "KORIBILLI TEJASWINI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210448",
+      "name": "NALADIMMI VIJAY KUMAR REDDY",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210476",
+      "name": "VANTERU JAHNAVI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210493",
+      "name": "BEEMIREDDY YASASWINI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210556",
+      "name": "GUJJULA ANJALI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210570",
+      "name": "GOPATHI NAGA PRIYANKA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210575",
+      "name": "KOTA THANUSRI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210583",
+      "name": "VANAPALLI PAVITHRA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210587",
+      "name": "KATTA RUTHIKA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210617",
+      "name": "CH V RAMANJANEYA REDDY",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210626",
+      "name": "NAKKA VENKAT",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210634",
+      "name": "ALLADA VEERA JYOTHI SRI MAHA LAKSHMI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210642",
+      "name": "KOTTAPALLI MANIKANTA VASU",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210671",
+      "name": "GOLI HARSHINI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210679",
+      "name": "NANDYALA KOUNDINYA SAI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210692",
+      "name": "NALLAPATI VENKATA VARUN",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210720",
+      "name": "VENNAPUSA HEMALATHA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210729",
+      "name": "MUDDABATHINA AYYAPPA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210757",
+      "name": "MALIREDDY THANOJ KUMAR",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210762",
+      "name": "RANKIREDDY NAGA SRI NITHIN",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210782",
+      "name": "MANDELA AMRUTHA VARSHINI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210788",
+      "name": "KORRAKOPPULA LAVANYA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210797",
+      "name": "PATTEDA SADGUNA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210820",
+      "name": "BODDU THANUSHYA SRILAKSHMI",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210824",
+      "name": "RAMACHANDRAPU MADAN",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    },
+    {
+      "collegeId": "O210827",
+      "name": "SHAIK SABEENA",
+      "year": "4th Year",
+      "department": "CSE",
+      "batch": "O21"
+    }
+  ]
+}

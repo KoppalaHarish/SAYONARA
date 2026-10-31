@@ -1,0 +1,130 @@
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model EligibleStudent {
+  id           String   @id @default(cuid())
+  collegeId    String   @unique
+  name         String
+  year         String   @default("3rd Year")
+  department   String   @default("CSE")
+  batch        String   @default("O22")
+  isRegistered Boolean  @default(false)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  @@index([collegeId])
+}
+
+model User {
+  id           String              @id @default(cuid())
+  name         String
+  collegeId    String              @unique
+  year         String              @default("3rd Year")
+  department   String              @default("CSE")
+  email        String              @unique
+  phone        String
+  passwordHash String
+  role         String              @default("student")
+  qrToken      String              @unique
+  createdAt    DateTime            @default(now())
+  updatedAt    DateTime            @updatedAt
+  
+  registrations EventRegistration[]
+  attendance    Attendance?
+
+  @@index([collegeId])
+  @@index([qrToken])
+}
+
+model Event {
+  id                  String              @id @default(cuid())
+  name                String
+  tagline             String
+  description         String
+  category            String
+  rules               String[]
+  eligibility         String
+  maxParticipants     Int
+  date                String
+  time                String
+  venue               String
+  registrationStatus  String              @default("OPEN")
+  iconName            String              @default("Sparkles")
+  createdAt           DateTime            @default(now())
+  updatedAt           DateTime            @updatedAt
+
+  registrations       EventRegistration[]
+}
+
+model EventRegistration {
+  id           String   @id @default(cuid())
+  studentId    String
+  eventId      String
+  registeredAt DateTime @default(now())
+
+  student      User     @relation(fields: [studentId], references: [id], onDelete: Cascade)
+  event        Event    @relation(fields: [eventId], references: [id], onDelete: Cascade)
+
+  @@unique([studentId, eventId])
+  @@index([studentId])
+  @@index([eventId])
+}
+
+model Attendance {
+  id           String    @id @default(cuid())
+  studentId    String    @unique
+  collegeId    String
+  studentName  String
+  year         String
+  department   String
+  qrToken      String    @unique
+  checkedIn    Boolean   @default(false)
+  checkedInAt  DateTime?
+  verifiedBy   String?
+  createdAt    DateTime  @default(now())
+
+  student      User      @relation(fields: [studentId], references: [id], onDelete: Cascade)
+}
+
+model Announcement {
+  id        String   @id @default(cuid())
+  title     String
+  content   String
+  priority  String   @default("normal")
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model FestSetting {
+  id               String   @id @default("default")
+  festName         String   @default("SAYONARA")
+  subtitle         String   @default("CSE FAREWELL FEST")
+  tagline          String   @default("A farewell experience built by CSE, for CSE.")
+  department       String   @default("Computer Science & Engineering")
+  eventDate        String   @default("COMING SOON (MARCH / APRIL 2026)")
+  venue            String   @default("TO BE ANNOUNCED")
+  registrationOpen Boolean  @default(true)
+  eligibleYears    String[] @default(["3rd Year", "4th Year"])
+  contactEmail     String   @default("cse.farewell@college.edu")
+  contactPhone     String   @default("+91 98765 43210")
+  heroNotice       String   @default("Official Registrations Open • 3rd & 4th Year CSE Only")
+  bannerMessage    String   @default("SAVE THE DATE: MARCH / APRIL 2026 • VENUE TO BE ANNOUNCED")
+  updatedAt        DateTime @updatedAt
+}
+
+model ContactMessage {
+  id        String   @id @default(cuid())
+  name      String
+  collegeId String?
+  email     String
+  subject   String
+  message   String
+  createdAt DateTime @default(now())
+}
